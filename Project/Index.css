@@ -5,3 +5,13 @@ body{
 
 }
 
+header{
+
+    height: 70px;
+    width: 100%;
+    background-color: rgb(107, 96, 96);
+    position: fixed;
+    top: 0;
+
+}
+
