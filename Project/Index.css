@@ -7,15 +7,14 @@ body{
 
 header{
 
-    height: 70px;
+    height: 100px;
     width: 100%;
     background-color: rgb(107, 96, 96);
     position: fixed;
-    top: 0;
 
 }
 
-nav ul li {
+ul li a {
 
     display: flex;
     justify-content: space-between;
@@ -27,3 +26,18 @@ nav ul li {
     text-decoration: none;
 
 }
+
+.Logo-div {
+
+    margin-left: 20px;
+
+}
+
+.Right-header{
+
+    margin-right: 20px;
+    justify-content: end;
+    align-items: end;
+
+}
+
